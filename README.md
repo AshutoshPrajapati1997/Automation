@@ -2,7 +2,15 @@
 ![code quality score](https://api.codiga.io/project/30022/score/svg)
 # M1_Game_Tick_Tock_Toy
 
-| #Folder  | #Description |
+
+
+# FOLDER_STRUCTURE
+
+| # Folder  | # Description |
 | ------------- | ------------- |
 | 1_Requirments  | Documents detailing requirments and research  |
 | 2_Architecture | Documents specifying design details  |
+| 3_Implementation  | All codes and documents  |
+| 4_Test  | Document with test plans and procedures  |
+| 5_Images  | Images & Videos related to project |
+| 6_Report  | All documents in this file  |
